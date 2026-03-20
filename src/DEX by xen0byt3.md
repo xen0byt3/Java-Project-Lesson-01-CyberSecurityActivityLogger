@@ -47,9 +47,11 @@ Sample Console Output
 
 Example Content of activity_log.txt
 	----- USER ACTIVITY LOG -----
+	
 	User: adonis
 	Login Time: 2026-03-05 16:50:10
 	Activity: Access server configuration
 	Activity Time: 2026-03-05 16:50:25
 	Logout Time: 2026-03-05 16:51:02
+	
 	------------------------------
