@@ -33,6 +33,7 @@ Detailed Explanation by xen0byt3
 
 
 Sample Console Output
+	
 	Enter username: adonis
 
 	Login successful!
@@ -46,6 +47,7 @@ Sample Console Output
 
 
 Example Content of activity_log.txt
+	
 	----- USER ACTIVITY LOG -----
 	
 	User: adonis
